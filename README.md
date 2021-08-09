@@ -1,5 +1,11 @@
 # Today I Learned📌
 
+![GitHub last commit](https://img.shields.io/badge/start--date-09.08.2021-blue)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/Jaehyuk-C/TIL)
+
+
+
 - 매일 배운 내용 정리
 
 ### 작성 규칙
